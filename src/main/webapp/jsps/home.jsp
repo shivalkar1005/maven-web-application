@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Introducing Sanskruti Ladies Tailor & Beauty Parlor - Where Elegance Meets Beauty! </h1>
-<h1 align="center"> Revamp your style and indulge in some self-care at Sanskruti Ladies Tailor & Beauty Parlor. Get in Touch +91 8080285434</h1> 
+<h1 align="center"> Discover your style and indulge in some self-care at Sanskruti Ladies Tailor & Beauty Parlor. Get in Touch +91 8080285434</h1> 
 <h1 align="center"> Discover the perfect blend of tailoring artistry and beauty expertise at Sanskruti. Because you deserve nothing but the best!</h1>
 <hr>
 <br>
