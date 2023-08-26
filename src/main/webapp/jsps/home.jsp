@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Andhra Pradesh,India </h1>
-<h1 align="center"> New Batch will be start in August 11  at 7.30 AM IST - Contact 9980923226/9980923216 or devopstrainingblr@gmail.com</h1> 
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Introducing Sanskruti Ladies Tailor & Beauty Parlor - Where Elegance Meets Beauty! </h1>
+<h1 align="center"> Revamp your style and indulge in some self-care at Sanskruti Ladies Tailor & Beauty Parlor. Get in Touch +91 8080285434</h1> 
+<h1 align="center"> Discover the perfect blend of tailoring artistry and beauty expertise at Sanskruti. Because you deserve nothing but the best!</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
